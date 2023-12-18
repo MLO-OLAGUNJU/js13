@@ -22,4 +22,23 @@ console.log(sum(90, 10)); */
 }
 console.log(getUsernameFromEmail("user@GitHub.com")); */
 
-function name(params) {}
+//another way
+
+/* const getUsernameFromEmail = function (email) {
+  return email.slice(0, email.indexOf("@"));
+};
+console.log(getUsernameFromEmail("manny@mlo.com")); */
+
+//another way
+
+/* const getUsernameFromEmail = (email) => {
+  return email.slice(0, email.indexOf("@"));
+};
+console.log(getUsernameFromEmail("jesusislord@mlo.com")); */
+
+/* const toProperCase = (myName) => {
+  return myName.charAt(0).toUpperCase() + myName.slice(1).toLowerCase();
+};
+
+console.log(toProperCase("september"));
+ */
