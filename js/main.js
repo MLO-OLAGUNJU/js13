@@ -1,5 +1,7 @@
 // Function
 
+//Functions consists of Reusable Code!
+
 //Methods = built in Fucntions!
 /* 
 "Manny".toLowerCase(); // toLowercase() is a function
